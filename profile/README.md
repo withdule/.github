@@ -1,4 +1,7 @@
+![Cover](https://github.com/withdule/.github/assets/77529508/ebdbb531-20b4-4381-a76b-a19d3d0d8c68)
+
 # Dule
 Dule is your new companion ! Add notes, tasks, reminders, and schedule events in a simple interface without distractions !
 
-![Cover](https://github.com/withdule/.github/assets/77529508/990cfa35-729e-4025-99cc-4e7b7ec1b133)
+> [!IMPORTANT]   
+> Dule is in a early development state. It's not documented and fully deployed !
